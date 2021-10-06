@@ -1,0 +1,15 @@
+C:\Users\Vlad\source\repos\NewWPF\bin\Debug\NewWPF.exe.config
+C:\Users\Vlad\source\repos\NewWPF\bin\Debug\NewWPF.exe
+C:\Users\Vlad\source\repos\NewWPF\bin\Debug\NewWPF.pdb
+C:\Users\Vlad\source\repos\NewWPF\obj\Debug\NewWPF.csproj.AssemblyReference.cache
+C:\Users\Vlad\source\repos\NewWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Vlad\source\repos\NewWPF\obj\Debug\App.g.cs
+C:\Users\Vlad\source\repos\NewWPF\obj\Debug\NewWPF_MarkupCompile.cache
+C:\Users\Vlad\source\repos\NewWPF\obj\Debug\NewWPF_MarkupCompile.lref
+C:\Users\Vlad\source\repos\NewWPF\obj\Debug\MainWindow.baml
+C:\Users\Vlad\source\repos\NewWPF\obj\Debug\NewWPF.g.resources
+C:\Users\Vlad\source\repos\NewWPF\obj\Debug\NewWPF.Properties.Resources.resources
+C:\Users\Vlad\source\repos\NewWPF\obj\Debug\NewWPF.csproj.GenerateResource.cache
+C:\Users\Vlad\source\repos\NewWPF\obj\Debug\NewWPF.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\NewWPF\obj\Debug\NewWPF.exe
+C:\Users\Vlad\source\repos\NewWPF\obj\Debug\NewWPF.pdb

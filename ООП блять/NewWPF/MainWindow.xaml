@@ -1,0 +1,15 @@
+﻿<Window x:Class="NewWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NewWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="{DynamicResource {x:Static SystemColors.InactiveCaptionBrushKey}}">
+        <Button Content="Format Data" HorizontalAlignment="Left" Margin="319,12,0,0" VerticalAlignment="Top" Width="80" AutomationProperties.Name="testButton" Height="28" RenderTransformOrigin="-1.569,-0.161"/>
+        <TextBox x:Name="testInput" HorizontalAlignment="Left" Height="28" Margin="12,12,-15,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="302" AutomationProperties.Name="testInput"/>
+        <TextBlock x:Name="formattedText" HorizontalAlignment="Left" Margin="14,50,0,0" TextWrapping="Wrap" Text="blank" VerticalAlignment="Top" Height="238" Width="384" AutomationProperties.Name="formattedText" Background="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}"/>
+
+    </Grid>
+</Window>

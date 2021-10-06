@@ -1,0 +1,32 @@
+C:\Users\start\Desktop\Новая папка\bin\Debug\net5.0\Новая папка.exe
+C:\Users\start\Desktop\Новая папка\bin\Debug\net5.0\Новая папка.deps.json
+C:\Users\start\Desktop\Новая папка\bin\Debug\net5.0\Новая папка.runtimeconfig.json
+C:\Users\start\Desktop\Новая папка\bin\Debug\net5.0\Новая папка.runtimeconfig.dev.json
+C:\Users\start\Desktop\Новая папка\bin\Debug\net5.0\Новая папка.dll
+C:\Users\start\Desktop\Новая папка\bin\Debug\net5.0\ref\Новая папка.dll
+C:\Users\start\Desktop\Новая папка\bin\Debug\net5.0\Новая папка.pdb
+C:\Users\start\Desktop\Новая папка\obj\Debug\net5.0\Новая папка.csproj.AssemblyReference.cache
+C:\Users\start\Desktop\Новая папка\obj\Debug\net5.0\Новая папка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\start\Desktop\Новая папка\obj\Debug\net5.0\Новая папка.AssemblyInfoInputs.cache
+C:\Users\start\Desktop\Новая папка\obj\Debug\net5.0\Новая папка.AssemblyInfo.cs
+C:\Users\start\Desktop\Новая папка\obj\Debug\net5.0\Новая папка.csproj.CoreCompileInputs.cache
+C:\Users\start\Desktop\Новая папка\obj\Debug\net5.0\Новая папка.dll
+C:\Users\start\Desktop\Новая папка\obj\Debug\net5.0\ref\Новая папка.dll
+C:\Users\start\Desktop\Новая папка\obj\Debug\net5.0\Новая папка.pdb
+C:\Users\start\Desktop\Новая папка\obj\Debug\net5.0\Новая папка.genruntimeconfig.cache
+C:\Users\Vlad\Desktop\ООП\bin\Debug\net5.0\Новая папка.exe
+C:\Users\Vlad\Desktop\ООП\bin\Debug\net5.0\Новая папка.deps.json
+C:\Users\Vlad\Desktop\ООП\bin\Debug\net5.0\Новая папка.runtimeconfig.json
+C:\Users\Vlad\Desktop\ООП\bin\Debug\net5.0\Новая папка.runtimeconfig.dev.json
+C:\Users\Vlad\Desktop\ООП\bin\Debug\net5.0\Новая папка.dll
+C:\Users\Vlad\Desktop\ООП\bin\Debug\net5.0\ref\Новая папка.dll
+C:\Users\Vlad\Desktop\ООП\bin\Debug\net5.0\Новая папка.pdb
+C:\Users\Vlad\Desktop\ООП\obj\Debug\net5.0\Новая папка.csproj.AssemblyReference.cache
+C:\Users\Vlad\Desktop\ООП\obj\Debug\net5.0\Новая папка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Desktop\ООП\obj\Debug\net5.0\Новая папка.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\ООП\obj\Debug\net5.0\Новая папка.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\ООП\obj\Debug\net5.0\Новая папка.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\ООП\obj\Debug\net5.0\Новая папка.dll
+C:\Users\Vlad\Desktop\ООП\obj\Debug\net5.0\ref\Новая папка.dll
+C:\Users\Vlad\Desktop\ООП\obj\Debug\net5.0\Новая папка.pdb
+C:\Users\Vlad\Desktop\ООП\obj\Debug\net5.0\Новая папка.genruntimeconfig.cache
