@@ -10,33 +10,8 @@
        android:id="@+id/webview_id"
        android:layout_width="match_parent"
        android:layout_height="match_parent"
-       android:layout_marginBottom="40dp"
-       app:layout_constraintBottom_toTopOf="@+id/button6"
-       tools:layout_editor_absoluteX="16dp">
-
-      <Button
-          android:id="@+id/button"
-          android:layout_width="wrap_content"
-          android:layout_height="wrap_content"
-          android:layout_x="304dp"
-          android:layout_y="7dp"
-          android:text="Button" />
-
-      <Button
-          android:id="@+id/button2"
-          android:layout_width="wrap_content"
-          android:layout_height="wrap_content"
-          android:layout_x="243dp"
-          android:layout_y="161dp"
-          android:text="Button" />
-
-      <Button
-          android:id="@+id/button3"
-          android:layout_width="wrap_content"
-          android:layout_height="wrap_content"
-          android:layout_x="227dp"
-          android:layout_y="229dp"
-          android:text="Button" />
+       app:layout_constraintBottom_toBottomOf="parent"
+       tools:layout_editor_absoluteX="0dp">
 
       <androidx.recyclerview.widget.RecyclerView
           android:layout_width="match_parent"
@@ -69,36 +44,15 @@
           android:layout_y="24dp"
           app:barrierDirection="left" />
 
-      <Button
-          android:id="@+id/button4"
-          android:layout_width="wrap_content"
-          android:layout_height="wrap_content"
-          android:layout_x="31dp"
-          android:layout_y="56dp"
-          android:text="Button" />
-
-      <Button
-          android:id="@+id/button5"
-          android:layout_width="wrap_content"
-          android:layout_height="wrap_content"
-          android:layout_x="152dp"
-          android:layout_y="656dp"
-          android:text="Button" />
    </WebView>
 
-   <androidx.constraintlayout.widget.Guideline
-       android:id="@+id/guideline2"
-       android:layout_width="wrap_content"
-       android:layout_height="wrap_content"
-       android:orientation="vertical"
-       app:layout_constraintGuide_percent="0.05109489" />
-
-   <Button
-       android:id="@+id/button6"
-       android:layout_width="wrap_content"
-       android:layout_height="wrap_content"
-       android:text="Button"
-       app:layout_constraintBottom_toBottomOf="parent"
-       tools:layout_editor_absoluteX="158dp" />
+   <com.google.android.material.bottomnavigation.BottomNavigationView
+       android:id="@+id/bottomNavigationView"
+       android:layout_width="409dp"
+       android:layout_height="0dp"
+       android:layout_marginTop="546dp"
+       app:layout_constraintEnd_toEndOf="parent"
+       app:layout_constraintStart_toStartOf="parent"
+       app:layout_constraintTop_toTopOf="@+id/webview_id" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
